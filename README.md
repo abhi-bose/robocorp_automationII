@@ -1,4 +1,4 @@
-# Template: Robot Framework - Minimal
+# Template: Robot Framework - Order robots from RobotSpareBin Industries Inc
 
 This is the simplest template to start from.
 
